@@ -1,7 +1,7 @@
 # Image Segmentation using UNet on Camvid dataset
 
 <div align="center">
-  <a href="http://colab.research.google.com/github/prajwal-suresh13/camvid_segmentation/blob/master/segmentation.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
+  <a href="http://colab.research.google.com/github/prajwal-suresh13/camvid_segmentation/blob/master/segmentation.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=200> </a>
 </div> <br>
 
 ## Introduction

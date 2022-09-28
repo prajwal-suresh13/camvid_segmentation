@@ -1,5 +1,8 @@
 # Image Segmentation using UNet on Camvid dataset
-[Colab Notebook](https://colab.research.google.com/github/prajwal-suresh13/camvid_segmentation/blob/master/segmentation.ipynb)
+
+<div align="center">
+  <a href="http://colab.research.google.com/github/prajwal-suresh13/camvid_segmentation/blob/master/segmentation.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
+</div> <br>
 
 ## Introduction
 Image Segmentation is a method of dividing an image into subgroups. Each pixel of an image is assigned to a particular class. It has many applications in medical imaging,
